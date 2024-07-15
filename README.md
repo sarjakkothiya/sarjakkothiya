@@ -2,6 +2,9 @@
 <h3 align="center">Data Science Professional 👨‍💻 </h3>
 <img src="https://media.licdn.com/dms/image/D4D22AQGlcO9aIWtWTg/feedshare-shrink_800/0/1684124564545?e=1723680000&v=beta&t=AFLHbDfeOg-tKZ8rhWYDUAYLdNrfxYzefHaec6Rvb_U" align="right" width="500" alt="Coding">
 
+<h3 align="left"> Other Github Accounts: </h3>
+<b> @Sarjakk99 </b><br>
+<b> @sarjakkk </b>
 
 - 🔭 I’m currently working on **Automated Fraud Detection System**
 
