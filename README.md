@@ -1,6 +1,6 @@
 <h1 align="center"> I am Sarjak Kothiya </h1>
 <h3 align="center">Data Science Professional 👨‍💻 </h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="500" alt="Coding">
+<img src="https://media.licdn.com/dms/image/D4D22AQGlcO9aIWtWTg/feedshare-shrink_800/0/1684124564545?e=1723680000&v=beta&t=AFLHbDfeOg-tKZ8rhWYDUAYLdNrfxYzefHaec6Rvb_U" align="right" width="500" alt="Coding">
 
 
 - 🔭 I’m currently working on **Automated Fraud Detection System**
