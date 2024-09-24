@@ -1,18 +1,6 @@
-<h1 align="center"> I am Sarjak Kothiya </h1>
-<h3 align="center">Data Science Professional 👨‍💻 </h3>
-<img src="https://media.licdn.com/dms/image/D4D22AQGlcO9aIWtWTg/feedshare-shrink_800/0/1684124564545?e=1723680000&v=beta&t=AFLHbDfeOg-tKZ8rhWYDUAYLdNrfxYzefHaec6Rvb_U" align="right" width="500" alt="Coding">
+<h1 align="center"> Hey, I am Sarjak Kothiya </h1>
 
-<h3 align="left"> Other Github Accounts: </h3>
-<b> @Sarjakk99 </b><br>
-<b> @sarjakkk </b>
-
-- 🔭 I’m currently working on **Automated Fraud Detection System**
-
-- 🌱 I’m currently learning **Generative AI**
-
-- 👯 I’m looking to collaborate on **Data Science projects**
-
-- 💬 Ask me about **Data Analysis, Visualization, Machine Leaning and AI**
+- I’m currently working on **Automated Fraud Detection System** and currently learning **Generative AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
